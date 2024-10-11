@@ -15,20 +15,20 @@ While the backend is functional, the **frontend design** still needs improvement
 - **Event Management**: Artists and administrators can create and manage events. Future versions may include **art competitions**, where artists can compete and potentially earn money from their creations.
 - **Profile System**: Users have profiles that display their artworks, rankings, and personal information (currently under optimization).
 
-## 🖼️ Screenshots
+## 🖼️ Screenshots 
 
-(Add screenshots of the homepage, artwork gallery, event management, and user profiles here to showcase the key features of TIEs. You can place your images in a folder called `assets/images/` and reference them in the README as shown below.)
+![Landing1](https://github.com/user-attachments/assets/e40d01fe-26d7-48aa-812f-0f4127e6948e)
+![Landing2](https://github.com/user-attachments/assets/eefdc02c-9a79-4e44-85a6-4f8b40878107)
+![landing3](https://github.com/user-attachments/assets/84933237-8e6c-4d89-a41d-e5b54e1e5a88)
 
-```markdown
-![Homepage Screenshot](assets/images/homepage.png)
-![Artwork Gallery Screenshot](assets/images/gallery.png)
-```
+
 ## 🛠️ Technologies Used
 - **Django**: Backend framework for handling user interactions, database management, and event handling.
 - **HTML/CSS**: Used for the structure and layout of the site (needs improvement).
 - **Bootstrap**: Powers interactions like likes, comments, and ranking updates.
 - **SQLite**: Default database during development (can be swapped for a production-ready DB).
 -**Tailwind CSS (Planned)**: Future integration for better styling and responsive design.
+
 
 ## 📝 Current State & Known Issues
 - **Frontend Design**: The current frontend is quite basic. Contributors with expertise in frontend development (especially HTML/CSS and Tailwind CSS) are encouraged to help make TIEs more visually appealing and user-friendly.
@@ -66,3 +66,5 @@ Here are some exciting ideas for features that could be added to TIEs:
 - **Commit your changes (git commit -m 'Add New Feature').**
 - **Push your branch to GitHub (git push origin feature/NewFeature).**
 - **Open a pull request, and provide a detailed description of what you have added or fixed.**
+
+## Email me for any insight: tuyishimechristophe84@gmail.com
