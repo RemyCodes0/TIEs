@@ -27,7 +27,7 @@ While the backend is functional, the **frontend design** still needs improvement
 - **HTML/CSS**: Used for the structure and layout of the site (needs improvement).
 - **Bootstrap**: Powers interactions like likes, comments, and ranking updates.
 - **SQLite**: Default database during development (can be swapped for a production-ready DB).
--**Tailwind CSS (Planned)**: Future integration for better styling and responsive design.
+- **Tailwind CSS (Planned)**: Future integration for better styling and responsive design.
 
 
 ## 📝 Current State & Known Issues
